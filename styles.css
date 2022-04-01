@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(26, 26, 26);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#game-board {
+  border: 1px solid rgb(219, 255, 219);
+}
+.canvas-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.title {
+  margin-top: 60px;
+  margin-bottom: 30px;
+  font-size: 30px;
+  color: rgb(219, 255, 219);
+  font-family: "Verdana", sans-serif;
+}
+
+h5 {
+  font-size: 30px;
+  color: rgb(219, 255, 219);
+  font-family: "Verdana", sans-serif;
+  margin-top: 30px;
+}
