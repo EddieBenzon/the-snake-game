@@ -30,6 +30,12 @@ body {
   font-family: "Verdana", sans-serif;
 }
 
+h4 {
+  font-size: 26px;
+  color: rgb(219, 255, 219);
+  font-family: "Verdana", sans-serif;
+  margin-bottom: 28px;
+}
 h5 {
   font-size: 30px;
   color: rgb(219, 255, 219);
